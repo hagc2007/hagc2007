@@ -7,7 +7,7 @@
 
 ### Sobre mí <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="Humberto" src="profile pic.jpg" width="350" height="auto" style="border-radius: 20px;" /></div>
 
 - ¡Hola a todos!, soy Humberto Garcia, de Caracas, Venezuela 🗻
 - Actualmente soy estudiante de Ciencias de la Computación en la UCV 👨‍🎓
@@ -16,9 +16,8 @@
 - ¡Bienvenido a mi Github! 🍧
 
 ### Redes Sociales 💻
-- <a href="https://linkedin.com/in/tu-usuario"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"></a>：Conéctate conmigo en LinkedIn 💼
-- <a href="https://twitter.com/tu-usuario"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"></a>：Sígueme en X/Twitter 🐦
-- <a href="mailto:tu-correo@gmail.com"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"></a>：Escríbeme un correo 📧
+- <a href="https://linkedin.com/in/hagc2007/"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"></a>：Contactame en LinkedIn! 💼
+- <a href="mailto:humbertohagc2007@gmail.com"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"></a>：Escríbeme un correo 📧
 
 ### Stack Tecnológico 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
@@ -47,29 +46,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
-
-### Proyectos Destacados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=hag2007&repo=C&theme=github_dark_dimmed)](https://github.com/hag2007/C)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=hag2007&repo=MOVUCV&theme=github_dark_dimmed)](https://github.com/hag2007/MOVUCV)
-<br>
-
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
-
-### Lenguajes de programación <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=hag2007&show_icons=true&locale=es&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="hag2007" width="350" height="250">
-
-### Estadísticas de Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-![Estadísticas de hag2007](https://github-vercel-deployment-seven.vercel.app/api?username=hag2007&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
-
-### Gráfico de Contribuciones <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![Gráfico de actividad de hag2007](https://github-readme-activity-graph.vercel.app/graph?username=hag2007&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-#
-
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
-
------
-Créditos del diseño: [Aurorp1g](https://github.com/Aurorp1g)
-
-Última edición: 24/10/2026
